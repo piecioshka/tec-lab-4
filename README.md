@@ -1,4 +1,6 @@
 tec-lab-4
 =========
 
-Exercises for fourth lesson on subject: "Technika cyfrowa"
+* http://www.mentor.com/products/fpga/model
+* http://tomaszewicz.zpt.tele.pw.edu.pl/tec
+
