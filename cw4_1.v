@@ -25,6 +25,6 @@ module cw4_1
         if (a>b)  agtb = 1'b1;
         if  (!(aeqb || agtb))  altb = 1'b1;
     end
-    //porownac realizacje: RTL Viewer (w Quartus2)
+    // porownac realizacje: RTL Viewer (w Quartus2)
 
 endmodule
