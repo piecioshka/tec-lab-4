@@ -28,3 +28,4 @@ module cw4_1
     // porownac realizacje: RTL Viewer (w Quartus2)
 
 endmodule
+
